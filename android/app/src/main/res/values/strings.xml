@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rolley</string>
+    <string name="facebook_app_id">532667821391846</string>
+    <string name="fb_login_protocol_scheme">fb532667821391846</string>
+</resources>

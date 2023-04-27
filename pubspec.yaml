@@ -41,7 +41,7 @@ dependencies:
   intl: ^0.17.0
 
   # Api Connection Plugin ----------->>>
-  dio: ^4.0.0
+  dio: ^5.1.1
   http: ^0.13.3
 
   # Json Converter Plugin ----------->>>
